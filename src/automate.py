@@ -91,6 +91,7 @@ def main():
     else:
         print("exiting script now, have a nice day :)")
 
+    fd.close()
 
 if __name__ == "__main__":
     main()
