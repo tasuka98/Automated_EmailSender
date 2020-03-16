@@ -1,7 +1,7 @@
 # Automated_EmailSender
 
 ## Summary
-This program lets you send a designed email message along with a list of attachments to every client inside a email list.
+This python script lets you send a designed email message along with a list of attachments to every client inside a email list.
 
 ## Usage
 Cd into the repo
